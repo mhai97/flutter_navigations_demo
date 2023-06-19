@@ -1,6 +1,6 @@
 # flutter_navigations_demo
 
-teaches routes and navigations
+This teaches Flutter routes and navigations
 
 ## Getting Started
 
