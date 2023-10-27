@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'screen2.dart';
-import 'screen0.dart';
 
 class Screen1 extends StatelessWidget {
   @override
