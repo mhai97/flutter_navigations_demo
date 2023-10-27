@@ -9,13 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Screen0(),
-      initialRoute: '/',
-      routes: {
-        '': (context) => Screen0(),  // the default screen no longer requires a / as a String
-        '/first': (context) => Screen1(),
-        '/second': (context) => Screen2(),
-      },
+      home: Screen1(),
     );
   }
 }
